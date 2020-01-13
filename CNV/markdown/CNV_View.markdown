@@ -6,7 +6,7 @@ Additional demo files are provided in the [GitHub](https://github.com/paprikacha
 Xxx. 
 
 # Input File Format
-The uploaded **CSV** file must match the *required* format. Several demo files from **References** are provided in the [GitHub](https://github.com/paprikachan/Oviz-SingleCell-demo/tree/master/CNV/demo_data) project. Please check the general accepted [input file format](xxx).
+The uploaded **CSV** file must match the *required* format. Several demo files from **References** are provided in the [GitHub](https://github.com/paprikachan/Oviz-SingleCell-demo/tree/master/CNV/demo_data) project. Please check the general accepted [input file format](https://github.com/paprikachan/Oviz-SingleCell-demo/blob/master/CNV/markdown/CNV_input_format.markdown).
 
 # Display Interactions
 There are two types of interactions: *Tooltips* and *Download*.
