@@ -1,12 +1,12 @@
-##### [Download](https://raw.githubusercontent.com/Nobel-Justin/Oviz-Bio-demo/master/SV_Heatmap/demo_data/10x.txt) the `official demo input file`.
+##### Download [cnv profile](https://raw.githubusercontent.com/paprikachan/Oviz-SingleCell-demo/master/CNV/demo_data/SCYN/T10_cnv.csv) and [meta information](https://github.com/paprikachan/Oviz-SingleCell-demo/blob/master/CNV/demo_data/SCYN/T10_meta.csv) the `official demo input file`.
 
-Additional demo files are provided in the [GitHub](https://github.com/Nobel-Justin/Oviz-Bio-demo/tree/master/SV_Heatmap/demo_data) project.
+Additional demo files are provided in the [GitHub](https://github.com/paprikachan/Oviz-SingleCell-demo/tree/master/CNV/demo_data/SCYN) project.
 
 # Introduction
 Xxx. 
 
 # Input File Format
-The uploaded **CSV** file must match the *required* format. Several demo files from **References** are provided in the [GitHub](https://github.com/Nobel-Justin/Oviz-Bio-demo/tree/master/SV_Heatmap/demo_data) project. Please check the general accepted [input file format](xxx).
+The uploaded **CSV** file must match the *required* format. Several demo files from **References** are provided in the [GitHub](https://github.com/paprikachan/Oviz-SingleCell-demo/tree/master/CNV/demo_data) project. Please check the general accepted [input file format](https://github.com/paprikachan/Oviz-SingleCell-demo/blob/master/CNV/markdown/CNV_input_format.markdown).
 
 # Display Interactions
 There are two types of interactions: *Tooltips* and *Download*.
@@ -74,9 +74,7 @@ v1.0.0 (2020-01-03)
 
 # Developer
 
-Mr. Yuhao Qing ([GitHub](xxx))
-
-Mr. Ruikang Li ([GitHub](xxx))
+Mr. Chaohui Li ([GitHub](xxx))
 
 # Designer
 
